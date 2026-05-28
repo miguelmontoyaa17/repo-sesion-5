@@ -1,5 +1,5 @@
 # saludo.py
-nombre = 'Miguel Castro'
+nombre = input('¿Cuál es tu nombre? ')
 carrera = 'Análisis y Desarrollo de Software'
 proyecto = 'LocalUp'
 print(f'Hola, soy {nombre}')
