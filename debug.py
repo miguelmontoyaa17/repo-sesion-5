@@ -4,7 +4,7 @@
 numeros = [10, 20, 30, 40, 50]
 
 total = 0
-for n in numeros
+for n in numeros:
     total = total + n
 
 print(f"La suma es: {total}")
